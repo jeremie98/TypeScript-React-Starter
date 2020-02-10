@@ -1,3 +1,3 @@
-# PROJECT GSB (GALAXY SWISS BOURDIN) NODE.JS/REACT.JS
+# TYPESCRIPT-REACT-STARTER
 
-This repo is a remake of GSBMVC coding before in PHP/MYSQL and coding here in Node.JS. 
+This repo is a starter for TypeScript/React project !
